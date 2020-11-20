@@ -1,7 +1,7 @@
 # datascience_portfolio
 This is my data science portfolio. 
 
-All my notebooks are from kaggle competitions which you can check out my profile -->  kaggle.com/shaanbarca
+All my notebooks are from kaggle datasets. You can check out my profile @ -->  kaggle.com/shaanbarca
 
 I have also included my work in seminar, prior to my exposure to data science and included all information i could disclose as project is still on going for now.
 
