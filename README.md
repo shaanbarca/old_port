@@ -17,4 +17,4 @@ I'm currently working on computer vision projects...  I will continuously update
 
 For any questions please email shaanbarca@keio.jp. 
 
-Thank you for reading :)
+Thank you for reading :).
