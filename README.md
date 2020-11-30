@@ -15,7 +15,7 @@ projects include =
 
 5.) Titanic solution = using alternate solution (my own) 
 
-6.) Anomaly detection ( WIP unsupervised learning + visualization)
+6.) Anomaly detection ( WIP .. still missing explanation)
 
 I have also included my work in seminar, prior to my exposure to data science and included all information i could disclose as the project is still on going for now.
 
